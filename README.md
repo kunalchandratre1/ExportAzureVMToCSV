@@ -9,6 +9,9 @@ Out of these humans there is special category of humans – I call them “Human
 3.	Project managers
 4.	Software Engineers
 5.	Solution Architects
+
+
 For all these sub-categories you can apply prefix such as Senior, Junior, Principal, Full Stack, Distinguished and in recent times we have a new addition to this prefix known as “CLOUD”. These are humans who can easily survive without bath but there is one thing without which none of these humans can survive and it is known as “Export to CSV”. It is more or equally important like eating food and drinking water for them.
+
 No matter how many cutting edge features and service Microsoft Azure is bringing, we still feel the product or service is not complete unless you offer “the” functionality of “Export to CSV”. 
 Refer to step by step guide - https://sanganakauthority.blogspot.com/2019/09/azure-vms-export-to-csv.html
